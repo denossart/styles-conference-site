@@ -46,3 +46,50 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+
+/*
+  ===========================
+  Set Box Model to border-box
+  ===========================
+*/
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+
+/*
+  ===============
+  Container class
+  ===============
+*/
+
+.container {
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
